@@ -1,4 +1,4 @@
-# Projeto Gerador de senha
+# Projeto Gerador de Senha
 
 Projeto de um gerador de senha simples, dinâmico e bastante útil.
 
